@@ -1,0 +1,46 @@
+{
+  "api": [
+    {
+      "id": "59dde0def94062f06bcc1211",
+      "age": 27,
+      "name": "Gale Sullivanf",
+      "gender": "female",
+      "email": "galesullivan@zedalis.com"
+    },
+    {
+      "id": "59dde0de06024380d2fe4f86",
+      "age": 24,
+      "name": "Billie Lambf",
+      "gender": "female",
+      "email": "billielamb@zedalis.com"
+    },
+    {
+      "id": "59dde0de47b61d96286c4f18",
+      "age": 31,
+      "name": "Marguerite Hunter",
+      "gender": "female",
+      "email": "margueritehunter@zedalis.com"
+    },
+    {
+      "id": "15b057a0-fd9a-11e9-a50c-5b1ad927d416",
+      "age": "323",
+      "name": "benjamin aizen kongshaug",
+      "email": "riddlefactory@outlook.com",
+      "gender": "some"
+    },
+    {
+      "id": "8b3a9ab0-fd9c-11e9-ba69-cbac37c3aa3b",
+      "age": "32",
+      "name": "sss",
+      "email": "benja@som.dk",
+      "gender": "man"
+    },
+    {
+      "id": "50858050-fd9d-11e9-8902-515c27b1e4f5",
+      "age": "3456",
+      "name": "drcvftybgnhujk",
+      "email": "benja_kongs@hotmail.com",
+      "gender": "8uu"
+    }
+  ]
+}
